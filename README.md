@@ -21,9 +21,3 @@ Para executar o projeto CarBil em seu computador, siga estas etapas:
 6. **Execute o Projeto**: No Android Studio, selecione o dispositivo em que deseja executar o aplicativo e clique no botão "Run" (ícone de play) na barra de ferramentas. O Android Studio compilará o código-fonte e instalará o aplicativo no dispositivo/emulador selecionado.
 
 7. **Explore o Aplicativo**: Uma vez instalado, o aplicativo CarBil estará disponível no dispositivo/emulador. Você pode explorar todas as funcionalidades do aplicativo diretamente no dispositivo ou no emulador.
-   <<<<<<< HEAD
-   =======
-
-Agora você está pronto para explorar e modificar o projeto CarBil no Android Studio!
-
-> > > > > > > 233f1fd672d361ba75252988ed6f143794db92d2
